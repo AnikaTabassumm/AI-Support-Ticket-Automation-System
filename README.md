@@ -34,7 +34,7 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-\- \*\*Support Ticket Submission:\*\* Submit customer support requests with customer name, email, subject, and message.
+- \*\*Support Ticket Submission:\*\* Submit customer support requests with customer name, email, subject, and message.
 
 \- \*\*AI Ticket Classification:\*\* Automatically classify tickets into Technical Issue, Billing, Account Access, or General Inquiry.
 
