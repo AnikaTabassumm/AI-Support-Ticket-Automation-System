@@ -34,23 +34,23 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-- \*\*Support Ticket Submission:\*\* Submit customer support requests with customer name, email, subject, and message.
+- Support Ticket Submission: Submit customer support requests with customer name, email, subject, and message.
 
-- \*\*AI Ticket Classification:\*\* Automatically classify tickets into Technical Issue, Billing, Account Access, or General Inquiry.
+- AI Ticket Classification:Automatically classify tickets into Technical Issue, Billing, Account Access, or General Inquiry.
 
-- \*\*Priority Assessment:\*\* Assign Low, Medium, High, or Critical priority levels.
+- Priority Assessment: Assign Low, Medium, High, or Critical priority levels.
 
-- \*\*Sentiment Analysis:\*\* Identify Positive, Neutral, or Negative customer sentiment.
+- Sentiment Analysis: Identify Positive, Neutral, or Negative customer sentiment.
 
-- \*\*Suggested Reply Generation:\*\* Generate professional AI-assisted responses for support agents to review.
+- Suggested Reply Generation: Generate professional AI-assisted responses for support agents to review.
   
-- \*\*Database Persistence:\*\* Store submitted tickets and AI analysis in MariaDB.
+- Database Persistence: Store submitted tickets and AI analysis in MariaDB.
 
-- \*\*Support Dashboard:\*\* View submitted tickets and their AI-generated classifications.
+- Support Dashboard: View submitted tickets and their AI-generated classifications.
 
-- \*\*Ticket Status Management:\*\* Update ticket status between Open, In Progress, and Resolved.
+- Ticket Status Management: Update ticket status between Open, In Progress, and Resolved.
 
-- \*\*REST API:\*\* Backend endpoints for health checks, ticket submission, retrieval, and status updates.
+- REST API: Backend endpoints for health checks, ticket submission, retrieval, and status updates.
 
 
 
@@ -58,21 +58,21 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-\- Search and filtering by customer, category, priority, sentiment, and status.
+ - Search and filtering by customer, category, priority, sentiment, and status.
 
-\- Improved ticket details and dashboard interface.
+ - Improved ticket details and dashboard interface.
 
-\- Loading indicators and more robust AI error handling.
+ - Loading indicators and more robust AI error handling.
 
-\- Automated ticket assignment and routing.
+ - Automated ticket assignment and routing.
 
-\- Analytics and reporting dashboard.
+ - Analytics and reporting dashboard.
 
-\- AI processing logs and monitoring.
+ - AI processing logs and monitoring.
 
-\- Human review and approval workflow.
+- Human review and approval workflow.
 
-\- Automated testing and additional input validation.
+- Automated testing and additional input validation.
 
 
 
@@ -81,8 +81,6 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 | Stakeholder | Role |
-
-|---|---|
 
 | Customer | Submits support requests |
 
