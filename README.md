@@ -117,8 +117,7 @@ The primary user of the dashboard is the customer support agent. AI-generated re
 | Development Tools | Nodemon, ESLint |
 
 
-
-\## Application Workflow
+## Application Workflow
 
 
 
@@ -146,7 +145,7 @@ The primary user of the dashboard is the customer support agent. AI-generated re
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -196,11 +195,11 @@ ai-support-ticket-automation/
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
-\### Prerequisites
+### Prerequisites
 
 
 
@@ -228,7 +227,7 @@ cd ai-support-ticket-automation
 
 
 
-\### 2. Set up the database
+### 2. Set up the database
 
 
 
@@ -280,7 +279,7 @@ Make sure the table has an auto-incrementing ID, a default status of `Open`, and
 
 
 
-\### 3. Configure the backend
+### 3. Configure the backend
 
 
 
@@ -362,7 +361,7 @@ The backend runs at:
 
 
 
-\### 4. Set up the frontend
+### 4. Set up the frontend
 
 
 
@@ -390,7 +389,7 @@ Open the application at:
 
 
 
-\## API Endpoints
+## API Endpoints
 
 
 
@@ -408,7 +407,7 @@ Open the application at:
 
 
 
-\### Ticket Submission Example
+### Ticket Submission Example
 
 
 
@@ -442,7 +441,7 @@ The response includes the saved ticket and its AI-generated category, priority, 
 
 
 
-\## Screenshots
+## Screenshots
 
 
 
@@ -450,7 +449,7 @@ Application screenshots will be added here as the project interface develops.
 
 
 
-\## Current Limitations
+## Current Limitations
 
 
 
@@ -464,7 +463,7 @@ Application screenshots will be added here as the project interface develops.
 
 
 
-\## Future Development
+## Future Development
 
 
 
@@ -472,7 +471,7 @@ The project will continue evolving toward a more comprehensive AI-assisted suppo
 
 
 
-\## Author
+## Author
 
 
 
