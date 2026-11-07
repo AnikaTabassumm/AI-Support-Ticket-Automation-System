@@ -79,14 +79,11 @@ When a customer submits a ticket, the system sends its subject and message to th
 ## Stakeholders
 
 
+Customer - Submits support requests
 
-| Stakeholder | Role |
+Customer Support Agent - Reviews AI analysis, suggested replies, and manages ticket status
 
-| Customer | Submits support requests |
-
-| Customer Support Agent | Reviews AI analysis, suggested replies, and manages ticket status |
-
-| Support Manager | Monitors ticket volume, priority, and customer sentiment |
+Support Manager - Monitors ticket volume, priority, and customer sentiment
 
 
 
@@ -97,22 +94,17 @@ The primary user of the dashboard is the customer support agent. AI-generated re
 ## Technology Stack
 
 
+Frontend - Next.js, React, Tailwind CSS
 
-| Layer | Technologies |
+Backend - Node.js, Express.js
 
-|---|---|
+AI Integration - Google Gemini API, `@google/genai`
 
-| Frontend | Next.js, React, Tailwind CSS |
+Database - MariaDB / MySQL
 
-| Backend | Node.js, Express.js |
+Database Driver - `mysql2`
 
-| AI Integration | Google Gemini API, `@google/genai` |
-
-| Database | MariaDB / MySQL |
-
-| Database Driver | `mysql2` |
-
-| Development Tools | Nodemon, ESLint |
+Development Tools - Nodemon, ESLint
 
 
 ## Application Workflow
@@ -392,8 +384,6 @@ Open the application at:
 
 
 | Method | Endpoint | Description |
-
-|---|---|---|
 
 | GET | `/api/health` | Check backend and database connectivity |
 
