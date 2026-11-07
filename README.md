@@ -34,23 +34,23 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-\*\*Support Ticket Submission:\*\* Submit customer support requests with customer name, email, subject, and message.
+- \*\*Support Ticket Submission:\*\* Submit customer support requests with customer name, email, subject, and message.
 
-\- \*\*AI Ticket Classification:\*\* Automatically classify tickets into Technical Issue, Billing, Account Access, or General Inquiry.
+- \*\*AI Ticket Classification:\*\* Automatically classify tickets into Technical Issue, Billing, Account Access, or General Inquiry.
 
-\- \*\*Priority Assessment:\*\* Assign Low, Medium, High, or Critical priority levels.
+- \*\*Priority Assessment:\*\* Assign Low, Medium, High, or Critical priority levels.
 
-\- \*\*Sentiment Analysis:\*\* Identify Positive, Neutral, or Negative customer sentiment.
+- \*\*Sentiment Analysis:\*\* Identify Positive, Neutral, or Negative customer sentiment.
 
-\- \*\*Suggested Reply Generation:\*\* Generate professional AI-assisted responses for support agents to review.
+- \*\*Suggested Reply Generation:\*\* Generate professional AI-assisted responses for support agents to review.
+  
+- \*\*Database Persistence:\*\* Store submitted tickets and AI analysis in MariaDB.
 
-\- \*\*Database Persistence:\*\* Store submitted tickets and AI analysis in MariaDB.
+- \*\*Support Dashboard:\*\* View submitted tickets and their AI-generated classifications.
 
-\- \*\*Support Dashboard:\*\* View submitted tickets and their AI-generated classifications.
+- \*\*Ticket Status Management:\*\* Update ticket status between Open, In Progress, and Resolved.
 
-\- \*\*Ticket Status Management:\*\* Update ticket status between Open, In Progress, and Resolved.
-
-\- \*\*REST API:\*\* Backend endpoints for health checks, ticket submission, retrieval, and status updates.
+- \*\*REST API:\*\* Backend endpoints for health checks, ticket submission, retrieval, and status updates.
 
 
 
