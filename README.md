@@ -1,4 +1,4 @@
-\# AI Support Ticket Automation System
+# AI Support Ticket Automation System
 
 
 
@@ -6,7 +6,7 @@ An AI-powered customer support ticket management system that uses Google's Gemin
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -26,11 +26,11 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-\## Key Features
+## Key Features
 
 
 
-\### Implemented
+### Implemented
 
 
 
@@ -54,7 +54,7 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-\### Planned Enhancements
+### Planned Enhancements
 
 
 
@@ -76,7 +76,7 @@ When a customer submits a ticket, the system sends its subject and message to th
 
 
 
-\## Stakeholders
+## Stakeholders
 
 
 
@@ -96,7 +96,7 @@ The primary user of the dashboard is the customer support agent. AI-generated re
 
 
 
-\## Technology Stack
+## Technology Stack
 
 
 
