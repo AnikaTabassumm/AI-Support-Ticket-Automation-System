@@ -213,7 +213,7 @@ ai-support-ticket-automation/
 
 
 
-\### 1. Clone the repository
+### 1. Clone the repository
 
 
 
